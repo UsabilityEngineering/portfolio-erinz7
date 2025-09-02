@@ -1,6 +1,6 @@
-# UX Portfolio
+# Erin Zimmerman's UX Portfolio
 
-About me...
+My name is Erin Zimmerman, and I am a junior. I have a caffeine addiction.
 
 ## UX Team Project
 
