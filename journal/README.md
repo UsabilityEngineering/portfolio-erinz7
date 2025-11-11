@@ -1,4 +1,4 @@
-# Journal Entry 1
+# Journal Entry 1: Using An Espresso Machine
 
 Erin Zimmerman 11/10/2025
 
