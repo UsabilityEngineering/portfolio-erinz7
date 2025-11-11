@@ -1,5 +1,7 @@
 # Journal Entry 1
 
+Erin Zimmerman 11/10/2025
+
 Everyday I use my Breville espresso machine to make a cup of coffee. The machine is not automatic, requiring some manual effort to accurately pull a shot of espresso. I have to grind the beans myself, fill the portafilter, tamp the grounds, lock the filter in place, wait for the machine to calibrate, and press a button each time I want to pull a shot. 
 
 The machine itself has one dial, two buttons, and an apparent handle for the portafilter.  So with only four really obvious components, it seems like pulling a good shot should be simple. However, I have come to recognize this process is not as simple as it seems as the machine itself provides very few **affordances** to me as a user, which refer to physical hints found in the design of something that convey how it should be utilized. The portafilter, for example, has a handle and appears to twist as a result, but there is no indication on how far to twist it.  It's also true that there's no clear indication regarding what twist the dial does except for some small icons.  Luckily, there are quite a few sources of **feedback** throughout the process of pulling a shot that indicate success which I have come to recognize.
